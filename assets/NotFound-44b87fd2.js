@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as n,F as c,d as e}from"./index-de5f9073.js";const s={},a=e("h2",null,"404Not Found",-1),r=e("p",null,"找不到頁面喔!",-1);function _(l,d){return t(),n(c,null,[a,r],64)}const f=o(s,[["render",_]]);export{f as default};
